@@ -1,0 +1,32 @@
+.products-features-area {
+  background: #f0f9ff;
+  padding: 60px 0;
+}
+.products {
+  display: flex;
+  justify-content: space-evenly;
+  border-bottom: dashed;
+  border-bottom: 2px dashed #003b60;
+  padding-bottom: 50px;
+}
+.single-product {
+  padding: 20px 30px;
+  border-top-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  text-align: center;
+}
+.single-product .custom-title {
+  margin-top: 15px;
+}
+.single-product img {
+  height: 170px;
+}
+.features .section-title {
+  color: #003b60;
+  text-align: center;
+  padding: 40px 0;
+}
+.features .product-details {
+  display: flex;
+  justify-content: center;
+}
