@@ -1,0 +1,47 @@
+.demin-poster-area {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
+  position: relative;
+  margin-top: -20%;
+  z-index: -1;
+}
+.demin-poster-area h3 {
+  color: #fff;
+  font-weight: 700;
+}
+.bottom-text {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 25px;
+  text-align: center;
+}
+.top-text h3 {
+  color: #f0e615;
+  text-align: center;
+  font-weight: 900;
+  padding-top: 56px;
+}
+.size {
+  text-align: center;
+}
+.size p {
+  /* display: flex; */
+  color: #012a4a;
+  background: #fff;
+  display: inline-block;
+}
+.size p {
+  color: #012a4a;
+  background: #fff;
+  display: inline-block;
+  margin: 0 10px;
+  border-radius: 30px;
+  height: 50px;
+  width: 50px;
+  font-weight: 700;
+  line-height: 45px;
+  font-size: 26px;
+}
