@@ -1,0 +1,25 @@
+.product-details-area {
+  padding: 70px 0;
+}
+.product-details-area .section-title h3 {
+  color: #012a4a;
+}
+.product-detail-img img {
+  height: 500px;
+}
+
+.product-details p {
+  color: #012a4a;
+  font-size: 18px;
+  font-weight: 500;
+}
+p.details-text {
+  padding-bottom: 40px;
+  color: #012a4a;
+}
+.product-details {
+  display: flex;
+}
+.product-details .left {
+  margin-right: 50px;
+}
