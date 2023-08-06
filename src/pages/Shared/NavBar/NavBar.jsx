@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Image, Nav, NavLink, Navbar } from "react-bootstrap";
 import logo from "../../../assets/logo.png";
+import "./NavBar.css";
 
 const NavBar = () => {
   return (
@@ -14,8 +15,8 @@ const NavBar = () => {
           <Navbar.Collapse id="responsive-navbar-nav">
             {/* <Nav className="mx-auto"> */}
             <Nav className="ml-auto menu-items">
-              <NavLink to="/">Home</NavLink>
-              <NavLink to="/">About Me</NavLink>
+              <NavLink to="/"></NavLink>
+              <NavLink to="/"></NavLink>
             </Nav>
           </Navbar.Collapse>
         </Container>

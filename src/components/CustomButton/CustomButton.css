@@ -1,9 +1,10 @@
-.custom-title h4 {
-  background-color: #012a4a;
+.custom-btn button {
+  background-color: #f0e615;
   display: inline-block;
-  color: #fff;
+  color: #003b60;
   font-size: 16px;
-  padding: 10px 20px;
+  padding: 10px 30px;
   border-top-left-radius: 30px;
   border-bottom-right-radius: 30px;
+  font-weight: 700;
 }

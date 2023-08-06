@@ -1,9 +1,10 @@
-import React from 'react';
+import React from "react";
+import "./CustomTitle.css";
 
-const CustomTitle = () => {
+const CustomTitle = ({ title }) => {
   return (
-    <div>
-      
+    <div className="custom-title">
+      <h4>{title}</h4>
     </div>
   );
 };
